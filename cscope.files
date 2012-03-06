@@ -1,8 +1,0 @@
-gdt.c
-idt.c
-irq.c
-isrs.c
-kb.c
-main.c
-scrn.c
-time.c
